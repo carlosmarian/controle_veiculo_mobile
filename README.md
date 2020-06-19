@@ -14,3 +14,22 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Verificar configurações e ambiente: flutter doctor
+
+FLUTTER: https://flutter.dev/
+
+Atualizar FLUTTER: flutter upgrade
+
+Pacotes Flutter: https://pub.dev/
+
+DART: https://dart.dev/get-dart
+
+Atualizar o DART: choco upgrade dart-sdk
+
+Usando o moor_flutter como ORM.
+
+Comando para gerar os arquivos ".g":
+
+flutter pub run build_runner build
+
